@@ -1,15 +1,14 @@
 # BME280-Breakout
-Breakout with BME280 Digital Environmental Sensorr from Bosch Sensortec.
+Breakout with BME280 Digital Environmental Sensor from Bosch Sensortec.
 
 ![BME280-Breakout](https://github.com/watterott/BME280-Breakout/raw/master/hardware/BME280-Breakout_v10.jpg)
 
-* [Bosch BME280](http://www.bosch-sensortec.com/en/bst/products/all_products/bme280) Integrated Environmental Sensor (Humidity, Pressure and Temperature)
+* [Bosch BME280](https://www.bosch-sensortec.com/en/bst/products/all_products/bme280) Integrated Environmental Sensor (Humidity, Pressure and Temperature)
 * Temperature Range: -40 - 85°C
 * Pressure Range: 300 - 1100hPa (+9000...-500m above/below sea level)
 * Humidity Sensor
-  * Response time: 1s
-  * Accuracy tolerance:  +/-3 % relative
-  * Hysteresis: +/-1% relative
+  * Accuracy tolerance: +/-3 % relative
+  * Hysteresis: <2% relative
 * SPI Interface (up to 10MHz)
 * TWI/I2C Interface (address 0x76 when SDO=0 or 0x77 when SDO=1, CS=1 for I2C)
 * 3.3V - 5V Power Supply and Logic Level
