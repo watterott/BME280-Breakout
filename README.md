@@ -6,7 +6,7 @@ Breakout with BME280 Digital Environmental Sensor from Bosch Sensortec.
 * [Bosch BME280](https://www.bosch-sensortec.com/en/bst/products/all_products/bme280) Integrated Environmental Sensor (Humidity, Pressure and Temperature)
 * Temperature Sensor -40...85°C
 * Pressure Sensor 300...1100hPa (+9000...-500m above/below sea level)
-* Humidity Sensor
+* Humidity Sensor 0...100%
   * Accuracy tolerance: +/-3 % relative
   * Hysteresis: <2% relative
 * SPI Interface (up to 10MHz)
@@ -21,6 +21,6 @@ Breakout with BME280 Digital Environmental Sensor from Bosch Sensortec.
 ## Hardware and Software
 * [Schematics + Layout](https://github.com/watterott/BME280-Breakout/tree/master/hardware)
 * [Bosch Sensortec BME280 driver](https://github.com/BoschSensortec/BME280_driver)
-* Arduino Library and Examples: [BME280](https://github.com/embeddedadventures/BME280), [BME280_Library](https://github.com/Protoinfy/BME280_Library), [Adafruit_BME280_Library](https://github.com/adafruit/Adafruit_BME280_Library)
+* Arduino Library and Examples: [Adafruit_BME280_Library](https://github.com/adafruit/Adafruit_BME280_Library), [BME280](https://github.com/embeddedadventures/BME280), [BME280_Library](https://github.com/Protoinfy/BME280_Library)
 * Particle / Spark Library and Examples: [Adafruit_BME280_Library](https://github.com/mhaack/Adafruit_BME280_Library)
 * Raspberry Pi Library and Examples: [BME280](https://github.com/SWITCHSCIENCE/BME280), [Weather Station](https://github.com/tisfablab/inmonitor)
