@@ -1,7 +1,7 @@
 # BME280-Breakout
 Breakout with BME280 Digital Environmental Sensor from Bosch Sensortec.
 
-![BME280-Breakout](https://github.com/watterott/BME280-Breakout/raw/master/hardware/BME280-Breakout_v10.jpg)
+![BME280-Breakout](https://github.com/watterott/BME280-Breakout/raw/master/hardware/BME280-Breakout_v11.jpg)
 
 * [Bosch BME280](https://www.bosch-sensortec.com/en/bst/products/all_products/bme280) Integrated Environmental Sensor (Humidity, Pressure and Temperature)
 * Temperature Sensor -40...85°C
