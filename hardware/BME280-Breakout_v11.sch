@@ -1796,9 +1796,9 @@ all kinds in 0603 and 0402</description>
 <sheets>
 <sheet>
 <plain>
-<text x="91.44" y="124.46" size="1.778" layer="91">I2C Address
-open   = 0x77
-closed = 0x76</text>
+<text x="91.44" y="152.4" size="1.778" layer="91">I2C Address
+SDO high = 0x77
+SDO low = 0x76</text>
 <text x="162.56" y="22.86" size="1.27" layer="95" align="top-left">Released under the Creative Commons Attribution Share-Alike 
 License. http://creativecommons.org/licenses/by-sa/4.0/
 
