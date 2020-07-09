@@ -7,6 +7,7 @@ Breakout with BME280 Digital Environmental Sensor from Bosch Sensortec.
 * Temperature Sensor -40...85°C
 * Pressure Sensor 300...1100hPa (+9000...-500m above/below sea level)
 * Humidity Sensor 0...100%
+* On-board 3.3V voltage regulator
 * SPI Interface (up to 10MHz)
 * TWI/I2C Interface (address 0x76 when SDO=0 or 0x77 when SDO=1, CS=1 for I2C)
 * 3.3V - 5V Power Supply and Logic Level
